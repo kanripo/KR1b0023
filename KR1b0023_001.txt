@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 書集傳或問
-#+DATE: 2015-09-23 09:36:03
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:02:26.828360
+#+PROPERTY: ID KR1b0023
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷上
 <pb:KR1b0023_WYG_001-1a>¶
 欽定四庫全書¶
 　書集傳或問卷上　　　　宋　陳大猷　撰¶
@@ -1640,4 +1642,3 @@
 　¶
 　¶
 　書集傳或問卷上¶
-
